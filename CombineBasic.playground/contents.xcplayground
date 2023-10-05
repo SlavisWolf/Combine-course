@@ -8,5 +8,10 @@
         <page name='Current value subjects'/>
         <page name='Pass through subjects'/>
         <page name='Cancelling a subscriber'/>
+        <page name='Transformation operators'/>
+        <page name='Filtering operators'/>
+        <page name='Combination and sharing operators'/>
+        <page name='Sequence operators'/>
+        <page name='Throwing error operators'/>
     </pages>
 </playground>
