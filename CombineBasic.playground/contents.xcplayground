@@ -13,5 +13,6 @@
         <page name='Combination and sharing operators'/>
         <page name='Sequence operators'/>
         <page name='Throwing error operators'/>
+        <page name='Debugging operators'/>
     </pages>
 </playground>
